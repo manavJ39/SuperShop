@@ -1,5 +1,5 @@
-# Marvellona
-Marvellona Ecommerce Website is an ultimate shopping destination for all the marvel fans.
+# SuperShop
+SuperShop Ecommerce Website is an ultimate shopping destination for all the marvel fans.
 It is build completely on MERN Stack technology.
 ReactJs is used to implement fully functional frontend.
 NodeJs & ExpressJs for a scalable backend in a modular way.
@@ -8,7 +8,7 @@ Stripe to implement payment methods by Credit/ Debit card.
 Cash on delivery feature.
 
 
-Features of marvellona :
+Features of SuperShop :
 
 1. Product list in homepage
 2. Product details in details page
